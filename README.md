@@ -9,7 +9,7 @@ More on [Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe)
 ### REXX UI for TicTacToe
 The playing field looks like this:
 ```
-EMPTY         X-WON         O-WON         DRAW
+   EMPTY         X-WON         O-WON         DRAW
    !   !       X ! O !       X !   ! O     X ! O ! X
 -----------   -----------   -----------   -----------
    !   !       O ! X !       X ! X ! X     X ! O ! X
