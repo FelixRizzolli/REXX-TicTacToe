@@ -10,11 +10,11 @@ More on [Wikipedia](https://en.wikipedia.org/wiki/Tic-tac-toe)
 The playing field looks like this:
 ```
 EMPTY         X-WON         O-WON         DRAW
-!   !       X ! O !       X !   ! O     X ! O ! X
+   !   !       X ! O !       X !   ! O     X ! O ! X
 -----------   -----------   -----------   -----------
-!   !       O ! X !       X ! X ! X     X ! O ! X
+   !   !       O ! X !       X ! X ! X     X ! O ! X
 -----------   -----------   -----------   -----------
-!   !       O ! X ! X     O ! O ! O     O ! X ! O
+   !   !       O ! X ! X     O ! O ! O     O ! X ! O
 ```
 The player in turn must enter the coordinates on which he wants to place his mark as follows:
 ```
